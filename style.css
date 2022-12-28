@@ -2,6 +2,10 @@ body {
     background: #595BD4;
     font-family: 'Titillium Web', sans-serif;
 }
+p {
+    text-align: center ;
+    
+}
 .loading {
     position: absolute;
     left: 0;
