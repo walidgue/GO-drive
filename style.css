@@ -5,11 +5,18 @@ body {
 h2 {
     text-align: center;
 }
+p {
+    text-align: center;
+}
+footer {
+    text-decoration: overline;
+}
+
 .loading {
     position: absolute;
     left: 0;
     right: 0;
-    top: 35%;
+    top: 25%;
     width: 100px;
     color: #FFF;
     margin: auto;
