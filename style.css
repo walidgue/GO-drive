@@ -9,8 +9,8 @@ p {
     text-align: center;
 }
 footer {
-    position: absolute;
-    width: 100% ;
+    position: fixed;
+    Bottom: 0;
     height: 2,5rem ;
     text-decoration: overline;
 }
