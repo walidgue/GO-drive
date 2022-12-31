@@ -9,9 +9,9 @@ p {
     text-align: center;
 }
 Img {
-    width:300px;
-    margin-top: center;
-    margin-eft: center;
+    width:50px;
+    margin-top: 250px;
+    margin-eft: 500px;
 }
 footer {
     position: fixed;
